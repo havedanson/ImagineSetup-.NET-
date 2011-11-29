@@ -1,0 +1,7 @@
+c:\users\caracarn\documents\visual studio 2010\Projects\ImagineSetup\bin\ImagineSetup.dll
+c:\users\caracarn\documents\visual studio 2010\Projects\ImagineSetup\bin\ImagineSetup.pdb
+c:\users\caracarn\documents\visual studio 2010\Projects\ImagineSetup\bin\EntityFramework.dll
+c:\users\caracarn\documents\visual studio 2010\Projects\ImagineSetup\bin\EntityFramework.xml
+c:\users\caracarn\documents\visual studio 2010\Projects\ImagineSetup\obj\Debug\ResolveAssemblyReference.cache
+c:\users\caracarn\documents\visual studio 2010\Projects\ImagineSetup\obj\Debug\ImagineSetup.dll
+c:\users\caracarn\documents\visual studio 2010\Projects\ImagineSetup\obj\Debug\ImagineSetup.pdb

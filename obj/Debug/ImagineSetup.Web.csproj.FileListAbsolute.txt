@@ -1,0 +1,12 @@
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\obj\Debug\ImagineSetup.dll
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\ImagineSetup.dll
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\ImagineSetup.pdb
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\Moq.dll
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\WebActivator.dll
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\Moq.pdb
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\Moq.xml
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\obj\Debug\ImagineSetup.pdb
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\ImagineSetup.PersistanceInterface.dll
+C:\Users\CARACARN\Documents\Visual Studio 2010\Projects\ImagineSetup\bin\ImagineSetup.PersistanceInterface.pdb

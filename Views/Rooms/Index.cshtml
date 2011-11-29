@@ -1,0 +1,15 @@
+﻿@model IEnumerable<ImagineSetup.PersistanceInterface.DTO.IRoom>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul data-role="listview" >
+   @foreach (var item in Model)
+   { 
+    <li>
+     <a href="@Url.Content("/Rooms/Room/"+@item.Name)">@item.Name</a>
+    </li>
+   }
+          
+</ul>

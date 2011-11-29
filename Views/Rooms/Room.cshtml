@@ -1,0 +1,59 @@
+﻿@model ImagineSetup.PersistanceInterface.DTO.IRoomInfo
+
+@{
+   // ViewBag.Title = "Room";
+}
+
+<h2>Room</h2>
+<ul data-role="listview">
+    <li data-role="list-divider">
+    <h3>Photos</h3>
+    </li>
+ <div data-role="collapsible" data-collapsed="false">
+
+@foreach (var item in Model.Photos)
+{
+    <img width="100%" src = '@Url.Action("show","image", new { id = 1})' />
+}
+ </div>
+    
+     <li data-role="list-divider">
+     <h3>
+     Instructions
+     </h3>
+     </li>
+     
+       
+     @{
+         var instructions = Model.Instructions.OrderBy(x => x.Order);
+         foreach (var item in instructions)
+         {
+           <li>@item.Text</li>
+         
+         }
+         
+         
+     }
+       
+     
+
+     <li data-role="list-divider">
+     <h3>Inventory</h3>
+     </li>
+
+       @{
+         var inventory = Model.Items; 
+         foreach (var item in inventory)
+         {
+           <li>
+            <div>@item.ProductName</div>
+            <div>@item.Count</div>
+           </li>
+         
+         }
+         
+         
+     }
+
+
+</ul>
